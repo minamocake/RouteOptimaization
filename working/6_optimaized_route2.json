@@ -1,0 +1,45 @@
+0 -> 2 -> 3 -> 4 -> 5 -> 1 -> 0
+
+
+
+
+[
+
+    {
+        "id":"1",
+        "address":"81 Victoria St, Singapore 188065",
+        "route_order":"1",
+    },
+    {
+        "id":"5",
+        "address":"333 North Bridge Rd, Singapore 188721",
+        "route_order":"6",
+    },
+    {
+        "id":"6",
+        "address":"232 Bain St, Singapore 180232",
+        "route_order":"3",
+    },
+    {
+        "id":"7",
+        "address":"331 North Bridge Rd, Singapore 188720",
+        "route_order":"4",
+    },
+    {
+        "id":"9",
+        "address":"30 Victoria St, Singapore 187996",
+        "route_order":"5",
+    },
+    {
+        "id":"10",
+        "address":"250 North Bridge Rd, Singapore 179101",
+        "route_order":"6",
+    },
+    {
+        "id":"11",
+        "address":"34-35 Seah St, Singapore 188391",
+        "route_order":"2",
+    }
+
+
+]
